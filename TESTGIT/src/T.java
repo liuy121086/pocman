@@ -1,6 +1,7 @@
 
 public class T {
 
+	private String a;
 	
 	private Integer id;
 	private String name;
